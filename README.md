@@ -1,2 +1,1 @@
-# Tomahawk198312
-
+homework №1. task 2
